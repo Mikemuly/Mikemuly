@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=The%20Dunning%20Krugger%20Effect" alt="Typing introduction" />
 </p>
 
-<p align="center">
+<p align="right">
   <a href="https://komarev.com/ghpvc/?username=Mikemuly">
     <img src="https://komarev.com/ghpvc/?username=Mikemuly&label=Profile%20views&color=00FFFF&style=flat-square" alt="Mikemuly's profile views" />
   </a>
