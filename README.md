@@ -15,7 +15,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- I'm a software developer who enjoys turning ideas into reliable, scalable, and maintainable solutions. I have experience across the software development lifecycle, from system design and backend development to frontend engineering, databases, cloud infrastructure, and DevOps. I work with technologies such as Python, JavaScript/TypeScript, Java, C++, SQL, Docker, Git, Linux, and modern cloud platforms. Passionate about clean architecture, performance optimization, automation, and continuous learning, I enjoy building products that solve real problems and deliver meaningful user experiences.
+- 🔭 I'm currently working on **ClockIn**, a face-recognition, geofenced staff attendance system
+- 🌱 I'm currently learning compiler construction and ML
+- 🤝 I'm open to collaborating on web projects
 
 
 ## 🧠 My Focus Areas
