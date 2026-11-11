@@ -15,9 +15,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 🔭 I'm currently working on **ClockIn**, a face-recognition, geofenced staff attendance system
-- 🌱 I'm currently learning compiler construction and ML
-- 🤝 I'm open to collaborating on web projects
+- 🔭 Currently working  **ClockIn**, a face-recognition, geofenced staff attendance system
+- 🌱 Currently learning Compiler construction and ML
+- 🤝 Open to collaborating on web projects
 
 
 ## 🧠 My Focus Areas
@@ -114,7 +114,6 @@
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=Mikemuly)
 <br/>
 
 ## 🔗 Connect with Me
