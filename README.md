@@ -37,9 +37,6 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Mikemuly&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Michael Muli's GitHub Trophies" />
 </p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Mikemuly&theme=tokyonight&radius=10" alt="Mikemuly's Activity Graph" />
-</p>
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
