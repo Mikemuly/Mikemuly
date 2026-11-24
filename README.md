@@ -25,9 +25,9 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/Mikemuly">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mikemuly&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Mikemuly's GitHub Stats" />
-  </a>
+  <div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Mikemuly&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+</div>
   <img src="https://streak-stats.demolab.com/?user=Mikemuly&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Mikemuly's GitHub Streak" width="49%" />
 </p>
 <p align="center">
