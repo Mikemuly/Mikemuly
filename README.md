@@ -25,9 +25,6 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Mikemuly&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-</div>
   <img src="https://streak-stats.demolab.com/?user=Mikemuly&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Mikemuly's GitHub Streak" width="49%" />
 </p>
 <p align="center">
