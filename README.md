@@ -105,6 +105,12 @@
 
 </p>
 
+## Compare notes
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=mikemuly&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171314855%3Fu%3D3b1235f8e04d0ca6e4dd27f9f37728dee7163b21%26v%3D4" alt="mikemuly social visual" />
+</p>
+
 
 ## 🔗 Connect with Me
 <p align="center">
