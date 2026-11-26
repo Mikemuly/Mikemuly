@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Michael%20Muli&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=mikemuly&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171314855%3Fu%3D3b1235f8e04d0ca6e4dd27f9f37728dee7163b21%26v%3D4" alt="mikemuly hero visual" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=The%20Dunning%20Krugger%20Effect" alt="Typing introduction" />
