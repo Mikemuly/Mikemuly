@@ -27,9 +27,11 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Mikemuly&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Mikemuly's GitHub Streak" width="49%" />
 </p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Mikemuly&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Michael Muli's GitHub Trophies" />
-</p>
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=mikemuly&theme=matrix&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+
+</div>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Mikemuly&theme=tokyonight&radius=10" alt="Mikemuly's Activity Graph" />
 </p>
