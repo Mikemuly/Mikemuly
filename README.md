@@ -24,9 +24,6 @@
 - Database management and design
 - Enterprise management systems
 
-## Currently Wroking on
-- Rida
-
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
